@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209443158351",
+    "project_id": "main-project-dbc74",
+    "storage_bucket": "main-project-dbc74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209443158351:android:2e4b6c18200050d05c2d3a",
+        "android_client_info": {
+          "package_name": "com.example.doglovers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209443158351-aba9h4thlj285klu98a3mro0s11nbd15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCTcCJdAI6sqdyqkrJQTzhOhY5uLX7Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209443158351-aba9h4thlj285klu98a3mro0s11nbd15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
