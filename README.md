@@ -21,9 +21,3 @@ This project was developed as a university final project to study and apply tech
 - To gain practical experience with machine learning concepts by implementing k-NN for breed recommendations.
 - To create a platform fostering a community for dog lovers.
 
-## Installation and Setup
-
-### Prerequisites
-- Flutter SDK installed (version X.X.X or later)
-- Firebase account and project setup
-- Google Maps API key
