@@ -1,16 +1,29 @@
-# doglovers
+# Dog Lover Mobile Application
 
-A new Flutter project.
+## Project Overview
+Dog Lover is a social media mobile application designed for dog enthusiasts. This app allows users to create and interact with posts related to dog care issues, search for nearby dog services, and get personalized dog breed recommendations. The recommendation system uses the k-nearest neighbors (k-NN) algorithm to suggest suitable dog breeds based on the user's environment and personality traits from a set of 20 breeds.
 
-## Getting Started
+This project was developed as a university final project to study and apply technologies such as Flutter, Dart, Firebase, and Google Maps API.
 
-This project is a starting point for a Flutter application.
+## Technology Stack
+- **Frontend:** Flutter (Dart)
+- **Backend / Database:** Firebase (Firestore, Authentication)
+- **APIs:** Google Maps API for location-based services
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
+- Create and manage posts (threads) for discussing dog-related problems.
+- Search for dog service locations nearby using Google Maps integration.
+- Personalized dog breed recommendations based on environment and user personality using k-nearest neighbors algorithm.
+- User profile management with features to search, like, and delete posts.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Purpose and Learning Goals
+- To build a fully functional mobile app integrating Flutter, Firebase, and Google Maps API.
+- To gain practical experience with machine learning concepts by implementing k-NN for breed recommendations.
+- To create a platform fostering a community for dog lovers.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation and Setup
+
+### Prerequisites
+- Flutter SDK installed (version X.X.X or later)
+- Firebase account and project setup
+- Google Maps API key
